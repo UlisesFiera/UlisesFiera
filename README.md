@@ -18,26 +18,22 @@ My stack is the following:
 
 Now, for the projects:
 
-**[ft_irc](https://github.com/UlisesFiera/ft_irc)**
-
+[`ft_irc`](https://github.com/UlisesFiera/ft_irc)
 **Networking, socket communication and internet protocols**
 
 The base of practically all of our society. ````ft_irc````consists on building an irc server from scratch in C++. The server must handle multiple clients simultaneously using TCP sockets and I/O multiplexing, receive and parse IRC commands, manage users and channels, and send the appropriate responses or broadcast messages between clients. The project combines networking, protocol parsing, event-driven programming, and C++ object-oriented design, and also exposed us to the intrincacies of the HTTP and HTTPs protocols. The focus was also in making the project follow the learnings got from the marvelous [Thinking in C++](https://www.amazon.es/Thinking-Introduction-Standard-One-Vol/dp/0139798099), which apply to every OOP language: *make this project as if it was going to be a library that somebody else will use in their own project*.
 
-````[minishell](https://github.com/UlisesFiera/minishell)````
-
+[`minishell`](https://github.com/UlisesFiera/minishell)
 **Rigurous parsing, sub-proccessing, deep low-level control**
 
 A simplified Unix shell in C, similar to Bash. The project focuses heavily on parsing, processes, file descriptors, signals, and reproducing the expected behavior of a real Unix shell. A series of hard handicaps were imposed on us, such as keeping the functions below 25 lines each. This make this project not only be a test on this repositories understanding of low level computing, needed to implement the many functionalities we had to, but to the quality of the coding standards themselves, which by force have to be modular, easily readable and scalable.
 
-````[inception](https://github.com/UlisesFiera/inception)````
-
+[`inception`](https://github.com/UlisesFiera/inception)
 **Devops, Docker and service pipelines**
 
 A small, secure infrastructure using Docker and Docker Compose. I created and configured multiple containers, including NGINX, WordPress, and MariaDB and made them communicate through a private Docker network while storing persistent data in volumes. A simple enough project that I escalated by devouring the famous [Docker Deep Dive](https://www.amazon.es/Docker-Deep-Dive-Zero-single/dp/191658537X) and everything there is to know about the mentioned services. An aspirant AI manufacturer must know how to deploy services and make them interact with each other.
 
-````[42 common core](https://github.com/UlisesFiera?tab=repositories)````
-
+[`42 common core`](https://github.com/UlisesFiera?tab=repositories)
 **Algorithms, linear algebra, rendering and web development**
 
 During my stance in the 42 campus in Madrid, we made many smaller -although never easy nor simple- projects that would taught me how to build many different efficient algorithms, how to make a 3D and 2D renderers from scratch in C using algebra, and many more.
