@@ -18,7 +18,7 @@ My stack is the following:
 
 Now, for the projects:
 
-````[ft_irc](https://github.com/UlisesFiera/ft_irc)````
+**[ft_irc](https://github.com/UlisesFiera/ft_irc)**
 
 **Networking, socket communication and internet protocols**
 
