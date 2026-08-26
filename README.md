@@ -1,6 +1,8 @@
 <div align=center>
+  
 ## Welcome to my little arcaneum... 
 *Don't expect AI slop here. Only human made machine wizardry.*
+</div>
 
 # Ulises Fiera
 I would describe my current self as:
@@ -54,4 +56,3 @@ A Work In Progress project whose goal is to "build a system that translates natu
 # Request anything
 
 Drop in without hesitation: ulises.fernandez.jorquera@gmail.com
-</div>
