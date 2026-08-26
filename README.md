@@ -1,8 +1,5 @@
-<div align=center>
-  
 ## Welcome to my little arcaneum... 
 *Don't expect AI slop here. Only human made machine wizardry.*
-</div>
 
 # Ulises Fiera
 I would describe my current self as:
