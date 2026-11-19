@@ -42,13 +42,12 @@ A small, secure infrastructure using Docker and Docker Compose. I created and co
 
 During my stance in the 42 campus in Madrid, we made many smaller -although never easy nor simple- projects that would taught me how to build many different efficient algorithms, how to make a 3D and 2D renderers from scratch in C using algebra, and many more.
 
-# AI engineering, human-made magic (WIP)
+# Iot devices, human-made magic (WIP)
 I'm about to graduate in the prestigious 42 campus as a Software Developer Architecht. As this qualification is proof of, my habilities range from high quality low-level coding, understanding of Computer Science fundamentals and System Administration. I've worked hard during the years 2024-2026 using C, C++, Python, bash, Linux, Docker and Git. Coding, investigating, reading technical books. You name it.
-But one thing that the years as freelance taught me was to be aware of where the opportunities are. And that's the AI stack, as of today.
-That's why, currently, I'm working on my first function-calling engine...
+And now, I'm currently working in my breakthrought project...
 
-**The Call Me Maybe Project**
-A Work In Progress project whose goal is to "build a system that translates natural language prompts into structured function calls with typed arguments". I'll keep you updated.
+**mp32**
+A Work In Progress project: a digital disk. It's like a normal music CD that, instead of beign inserted into a device-of-olde, connects through bluetooth to a device just like an ipod would. The user will have access to an online library where they will be able to register their latests adquisition, and explore/showoff the records of the community.
 
 # Request anything
 
